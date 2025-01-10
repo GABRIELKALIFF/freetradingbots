@@ -179,7 +179,7 @@
                     </value>
                     <next>
                       <block type="variables_set" id="!CO:5y4$R}G8lycyo~^n">
-                        <field name="VAR">stake</field>
+                        <field name="VAR">payout</90%>
                         <value name="VALUE">
                           <block type="math_number" id="GNCT:unD}g-{T/J3B.qo">
                             <field name="NUM">0.35</field>
